@@ -1,0 +1,93 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/anxiolytic-hypnotic-hypnotics---primary.py
+inputModule3:
+  class: File
+  path: python/anxiolytic-hypnotic---primary.py
+inputModule4:
+  class: File
+  path: python/anxiolytic-hypnotic-*dichloralphenazone---primary.py
+inputModule5:
+  class: File
+  path: python/anxiolytic-hypnotic-*flunitrazepam---primary.py
+inputModule6:
+  class: File
+  path: python/anxiolytic-hypnotic-flurazepam---primary.py
+inputModule7:
+  class: File
+  path: python/anxiolytic-hypnotic-loprazolam---primary.py
+inputModule8:
+  class: File
+  path: python/anxiolytic-hypnotic-lormetazepam---primary.py
+inputModule9:
+  class: File
+  path: python/anxiolytic-hypnotic-nitrazepam---primary.py
+inputModule10:
+  class: File
+  path: python/anxiolytic-hypnotic-triazolam---primary.py
+inputModule11:
+  class: File
+  path: python/anxiolytic-hypnotic-sodium---primary.py
+inputModule12:
+  class: File
+  path: python/anxiolytic-hypnotic-zoplicone---primary.py
+inputModule13:
+  class: File
+  path: python/anxiolytic-hypnotic-zolpidem---primary.py
+inputModule14:
+  class: File
+  path: python/anxiolytic-hypnotic-zaleplon---primary.py
+inputModule15:
+  class: File
+  path: python/anxiolytic-hypnotic-anxiolytics---primary.py
+inputModule16:
+  class: File
+  path: python/anxiolytic-hypnotic-alprazolam---primary.py
+inputModule17:
+  class: File
+  path: python/anxiolytic-hypnotic-bromazepam---primary.py
+inputModule18:
+  class: File
+  path: python/anxiolytic-hypnotic-chlordiazepoxide---primary.py
+inputModule19:
+  class: File
+  path: python/anxiolytic-hypnotic-chlormezanone---primary.py
+inputModule20:
+  class: File
+  path: python/anxiolytic-hypnotic-clobazam---primary.py
+inputModule21:
+  class: File
+  path: python/anxiolytic-hypnotic-*ketazolam---primary.py
+inputModule22:
+  class: File
+  path: python/anxiolytic-hypnotic-*medazepam---primary.py
+inputModule23:
+  class: File
+  path: python/anxiolytic-hypnotic-meprobamate---primary.py
+inputModule24:
+  class: File
+  path: python/anxiolytic-hypnotic-oxazepam---primary.py
+inputModule25:
+  class: File
+  path: python/anxiolytic-hypnotic-*prazepam---primary.py
+inputModule26:
+  class: File
+  path: python/anxiolytic-hypnotic-methyprylone---primary.py
+inputModule27:
+  class: File
+  path: python/anxiolytic-hypnotic-barbiturates---primary.py
+inputModule28:
+  class: File
+  path: python/epilepsy-anxiolytic-hypnotic---primary.py
+inputModule29:
+  class: File
+  path: python/methylphenobarbital-anxiolytic-hypnotic---primary.py
+inputModule30:
+  class: File
+  path: python/phenobarbital-anxiolytic-hypnotic---primary.py
+inputModule31:
+  class: File
+  path: python/output-cases.py
